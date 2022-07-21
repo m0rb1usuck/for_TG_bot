@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForTGBot", "ForTGBot\ForTGBot.csproj", "{7FF52EDE-98C8-46B6-A7C8-17E1C201756E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sandbox", "Sandbox\Sandbox.csproj", "{ACAFECC4-4474-4E6E-9333-B76415B64241}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{7FF52EDE-98C8-46B6-A7C8-17E1C201756E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7FF52EDE-98C8-46B6-A7C8-17E1C201756E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7FF52EDE-98C8-46B6-A7C8-17E1C201756E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACAFECC4-4474-4E6E-9333-B76415B64241}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACAFECC4-4474-4E6E-9333-B76415B64241}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACAFECC4-4474-4E6E-9333-B76415B64241}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACAFECC4-4474-4E6E-9333-B76415B64241}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
