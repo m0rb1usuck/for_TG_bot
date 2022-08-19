@@ -2,6 +2,9 @@
 
 namespace Sandbox
 {
+    // ToDo 
+    // * С учетом новых знаний о reference (ссылочных) types и value (значимых) types,
+    // почему string может принимать значение null, а int нет?
     public class Program
     {
         // ToDo создай иерархию классов для животных,
